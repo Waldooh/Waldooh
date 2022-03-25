@@ -1,8 +1,15 @@
-### Hi there 👋
+### Hi there 👋, I'm Armando Rios
+#### Fullstack Developer & Marketer
+I'm Armando from Mexico, but you can call me Mando, I'm a MERN Fullstack Developer. I really enjoy learning new ways to code cleaner and faster getting more expertice with frameworks like React and React Native. I'm also passionate about web designin & UX/UI.
 
-I'm Armando from Mexico, but you can call me Mando, I'm a MERN Fullstack Developer. I really enjoy learning new ways to code cleaner and faster getting more expertice with frameworks like React and React Native. I'm also passionate about web designin & UX/UI. 
+Skills: ReactJS / JS / HTML / CSS / NodeJS / Figma
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waldooh)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on my own company 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Waldooh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/armando-rios//)  
+
+
 <!--
 **Waldooh/Waldooh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
