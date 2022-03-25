@@ -7,14 +7,14 @@ I'm Armando from Mexico, but you can call me Mando, I'm a MERN Fullstack Develop
 * ⚛️ React
 * 📲 React Native
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waldooh&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waldooh&show_icons=true&theme=merko)
 
 Skills: ReactJS / JS / HTML / CSS / NodeJS / Figma
 
 - 🔭 I’m currently working on my own company 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Waldooh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/armando-rios//)  
+<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Waldooh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/armando-rios//)   -->
 
 
 <!--
