@@ -1,6 +1,12 @@
-### Hi there 👋, I'm Armando Rios
+## Hi there 👋, I'm Armando Rios
 #### Fullstack Developer & Marketer
 I'm Armando from Mexico, but you can call me Mando, I'm a MERN Fullstack Developer. I really enjoy learning new ways to code cleaner and faster getting more expertice with frameworks like React and React Native. I'm also passionate about web designin & UX/UI.
+
+### Skills & Experience
+* 💻 HTML, CSS, JS
+* ⚛️ React
+* 📲 React Native
+
 
 Skills: ReactJS / JS / HTML / CSS / NodeJS / Figma
 
