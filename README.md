@@ -7,6 +7,7 @@ I'm Armando from Mexico, but you can call me Mando, I'm a MERN Fullstack Develop
 * ⚛️ React
 * 📲 React Native
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waldooh&show_icons=true&theme=radical)
 
 Skills: ReactJS / JS / HTML / CSS / NodeJS / Figma
 
