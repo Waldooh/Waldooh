@@ -9,7 +9,7 @@ I'm Armando from Mexico, but you can call me Mando, I'm a MERN Fullstack Develop
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waldooh&show_icons=true&theme=merko)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=waldooh&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats?theme=merko)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=waldooh&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 Skills: ReactJS / JS / HTML / CSS / NodeJS / Figma
 
