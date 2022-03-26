@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/Waldooh/Waldooh/blob/main/Banner%20Dev.gif)
-<h1 align="left">Hi 👋, I'm Armando Ríos</h1>
+<h1 align="left">Hello Koders 👋, I'm Armando Ríos</h1>
 <h3 align="left" width"820px">But you can call me Mando 😉. I'm a MERN Fullstack Developer from Mexico. I really enjoy learning new ways to code cleaner and faster, getting more experience with frameworks like React and React Native. I'm also passionate about web designin & music 🎸.</h3>
 <img align="right" alt="Coding" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
