@@ -37,4 +37,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=waldooh&show_icons=true&locale=en&theme=merko" alt="waldooh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waldooh&" alt="waldooh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waldooh&theme=merko" alt="waldooh" /></p>
